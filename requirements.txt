@@ -1,0 +1,13 @@
+langchain~=0.0.285
+extract_msg
+unstructured
+python-magic
+python-magic-bin
+openai~=0.28.0
+chromadb
+python-git
+python-dotenv~=1.0.0
+faiss-cpu
+pypdf
+gitpython
+tiktoken
